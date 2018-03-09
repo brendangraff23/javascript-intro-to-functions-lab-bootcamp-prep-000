@@ -1,4 +1,4 @@
 function should(string)
   {
-    return string;
+    return string.toUpperCase();
   }
